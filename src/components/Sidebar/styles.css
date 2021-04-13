@@ -1,0 +1,25 @@
+.sidebar{
+    border-right: 1px solid #e6ecf0 ;
+    flex: 0.2;
+    min-width: 240px;
+    margin-left: 20px;
+    margin-right: 0px;
+}
+.sidebar_icon{
+   color: #08a0e9 !important;
+   font-size: 30px !important;
+   margin: 10px 10px;
+   margin-bottom: 10px;
+   cursor: pointer;
+}
+.sidebar_tweet{
+    margin-left: 20px;
+    background-color: #08a0e9 !important;
+    border-radius: 30px !important;
+    border: none !important;
+    color: white !important;
+    text-transform: inherit !important;
+    width: 70%;
+    height: 40px !important;
+    margin-top: 10px !important;
+}

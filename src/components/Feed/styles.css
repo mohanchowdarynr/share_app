@@ -1,0 +1,14 @@
+.feed{
+    flex: 0.4;
+    min-width: 400px;
+    border-bottom: 10px;
+    border-right: 1px solid #e6ecf0;
+}
+.feed_home{
+    border-bottom: 1px solid #e6ecf0 ;
+}
+.feed_home h1{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 15px;
+}
